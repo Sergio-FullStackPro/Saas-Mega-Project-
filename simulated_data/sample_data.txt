@@ -1,0 +1,2 @@
+# synthetic activity file: sample_data.txt
+2024-01-01T11:29:34 | commit=0010 | token=syi5dari
